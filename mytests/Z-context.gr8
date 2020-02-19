@@ -1,0 +1,13 @@
+small x (initially 2)
+define small function covfefe as
+ post x
+ if 1 equals 1 then
+  small x (initially 4)
+  post x
+ if 2 equals 2 then
+  small x
+  assign 3 to x
+  post x
+ post "fim"
+ post x
+ return 0

@@ -1,0 +1,6 @@
+define procedure ups on small x as
+ post x
+define small function covfefe as
+ huge y (initially 6.8)
+ use y for ups
+ return 0

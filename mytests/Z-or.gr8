@@ -1,0 +1,11 @@
+<< Testing or only evaluate second condition when first is false >>
+
+define small function f on small a as
+ post "maybe not a"
+ return 0
+
+define small function covfefe as
+ small x (initially 4)
+ if x equals 2 plus 2 or use x for f equals 0 then
+  post "gr8 day"
+ return 0

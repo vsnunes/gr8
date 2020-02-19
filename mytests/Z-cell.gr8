@@ -1,0 +1,6 @@
+small a (initially 4)
+define small function covfefe as
+ small b
+ assign (cell 0 at a?) plus 2 times 4 to b
+ post b
+ return 0
